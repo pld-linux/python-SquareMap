@@ -3,7 +3,7 @@ Summary:	Hierarchic visualization control for wxPython
 Summary(pl.UTF-8):	Element grafiki wxPython do ilustrowania hierarchii
 Name:		python-%{module}
 Version:	1.0.0b25
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/S/%{module}/%{module}-%{version}.tar.gz
@@ -15,6 +15,7 @@ BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.219
 #Requires:		python-libs
 Requires:	python-modules
+Requires:	python-wxPython
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
