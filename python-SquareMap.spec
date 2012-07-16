@@ -2,12 +2,12 @@
 Summary:	Hierarchic visualization control for wxPython
 Summary(pl.UTF-8):	Element grafiki wxPython do ilustrowania hierarchii
 Name:		python-%{module}
-Version:	1.0.0b25
-Release:	3
+Version:	1.0.1
+Release:	1
 License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/S/%{module}/%{module}-%{version}.tar.gz
-# Source0-md5:	47e77f1f6e98e0a1854b74feab78ed2d
+# Source0-md5:	c710967fee3821aa732cd7bd4952013b
 URL:		http://pypi.python.org/pypi/SquareMap/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
