@@ -3,7 +3,7 @@ Summary:	Hierarchic visualization control for wxPython
 Summary(pl.UTF-8):	Element grafiki wxPython do ilustrowania hierarchii
 Name:		python-%{module}
 Version:	1.0.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/S/%{module}/%{module}-%{version}.tar.gz
